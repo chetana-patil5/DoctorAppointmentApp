@@ -1,0 +1,94 @@
+[
+
+    {
+        "category_id" :"1",
+         "category_specialization":"General Physician",
+         "category_description":"A general physicians is trained to provide healthcare to patients of any sex or age. General physicians often work as primary care physicians. ",
+         "category_image":"/images/General_Physician.jpg",
+         "category_image_path":"/cat/general"
+        },
+        {
+        "category_id" :"2",
+         "category_specialization":"Dentist",
+         "category_description":"Dentists are the frontline of good oral health.",
+         "category_image":"/images/Dentist.jpg",
+         "category_image_path":"/cat/dentist"
+        },
+        {
+        "category_id" :"3",
+         "category_specialization":"Gynecologist",
+         "category_description":"Gynecologists provide preventive care and disease management for female health conditions.",
+         "category_image":"/images/Gynecologist.jpg",
+         "category_image_path":"/cat/gynecologist"
+        },
+        {
+        "category_id" :"4",
+         "category_specialization":"Pediatrician",
+         "category_description":"Pediatricians focus on treating children from birth to young adulthood. They may be a child’s primary care physician and have training",
+         "category_image":"/images/Pediatrician.jpg",
+         "category_image_path":"/cat/pediatrician"
+        },
+        {
+        "category_id" :"5",
+         "category_specialization":"Cardiologist",
+         "category_description":"Cardiologists focus on the cardiovascular system, which includes the heart and blood vessels. They treat many cardiovascular conditions",
+         "category_image":"/images/Cardiologist.jpg",
+         "category_image_path":"/cat/cardiologist"
+        },
+        {
+        "category_id" :"6",
+         "category_specialization":"Neurologist",
+         "category_description":"Neurologists are physicians specialized in the treatment of disorders of the nervous system.",
+         "category_image":"/images/Neurologist.jpg",
+         "category_image_path":"/cat/neurologist"
+        },
+        {
+        "category_id" :"7",
+         "category_specialization":"Physiotherpist",
+         "category_description":"Physiotherapists help people affected by injury, illness or disability through movement and exercise, manual therapy, education and advice.",
+         "category_image":"/images/Physiotherpist.jpg",
+         "category_image_path":"/cat/physiotherapist"
+        },
+        {
+        "category_id" :"8",
+         "category_specialization":"Psychiatrist",
+         "category_description":"A psychiatrist is a doctor who treats mental health conditions. They may use counseling, medication, or hospitalization as part of their treatment.",
+         "category_image":"/images/Psychiatrist.jpg",
+         "category_image_path":"/cat/psychiatrist"
+        },
+        {
+        "category_id" :"9",
+         "category_specialization":"Dermatologist",
+         "category_description":"Dermatologists focus on diseases and conditions of the skin, nails, and hair. They treat conditions such as eczema, skin cancer, acne, and psoriasis.",
+         "category_image":"/images/Dermatologist.jpg",
+         "category_image_path":"/cat/dermatologist"
+        },
+        {
+        "category_id" :"10",
+         "category_specialization":"Radiologist",
+         "category_description":"A radiologist specializes in diagnosing and treating conditions using medical imaging tests. ",
+         "category_image":"/images/Radiologist.jpg",
+         "category_image_path":"/cat/radiologist"
+        },
+        {
+        "category_id" :"11",
+         "category_specialization":"Nephrologist",
+         "category_description":"A nephrologist focuses on kidney care and conditions that affect the kidneys. Conditions they can treat include: kidney ,disease,renal (kidney) failure,diabetes,kidney stones,lupus,hypertension.",
+         "category_image":"/images/Nephrologist.jpg",
+         "category_image_path":"/cat/nephrologist"
+        },
+        {
+        "category_id" :"12",
+         "category_specialization":"Endocrinologist",
+         "category_description":"Endocrinologists treat disorders and conditions that affect the endocrine system. This system involves various glands that make and release hormones in the body.",
+         "category_image":"/images/Endocrinologist.jpg",
+         "category_image_path":"/cat/endocrinologist"
+        }
+
+
+
+
+
+
+    
+]

@@ -1,0 +1,16 @@
+/* ViewSlot.css */
+
+/* Container Styles */
+.view-slot-container {
+    background-color: #27ae60; /* Green background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center; /* Center align the content */
+  }
+  
+  /* Rest of your View Slot component styles remain the same */
+  
